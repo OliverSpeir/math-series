@@ -6,7 +6,7 @@ def fibonacci(n):
     if n < 0 or not int:
         print("must input a positive integer")
     # first two numbers in sequence are 1
-    # base case
+    # base casee
     if n == 0:
         return 0
     if n == 1:
